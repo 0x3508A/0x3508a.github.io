@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0x3508a&#39;s Blog</title>
+    <link>https://0x3508a.github.io/</link>
+    <description>Recent content on 0x3508a&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Mar 2023 16:16:04 +0530</lastBuildDate><atom:link href="https://0x3508a.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forth2020 Group Links</title>
+      <link>https://0x3508a.github.io/post/forth2020-group-links/</link>
+      <pubDate>Tue, 07 Mar 2023 16:16:04 +0530</pubDate>
+      
+      <guid>https://0x3508a.github.io/post/forth2020-group-links/</guid>
+      <description>&lt;p&gt;Recently joined the nice &lt;strong&gt;&lt;a href=&#34;https://www.forth2020.org/&#34; target=&#34;_blank&#34;&gt;Forth2020&lt;/a&gt;&lt;/strong&gt; group.
+Owing my discovery and interest in &lt;strong&gt;&lt;a href=&#34;https://0x3508a.github.io/tags/forth&#34; target=&#34;_blank&#34;&gt;Forth&lt;/a&gt;&lt;/strong&gt; programming Language.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://0x3508a.github.io/post/first-post/</link>
+      <pubDate>Tue, 07 Mar 2023 15:57:32 +0530</pubDate>
+      
+      <guid>https://0x3508a.github.io/post/first-post/</guid>
+      <description>This is a beginning of a journey of sorts.
+There were many strange ways my brain was fragmented. And all notes over the years were scattered in all not good places.
+Its time to put an end to that, and organize the things in one place.
+And here we go !</description>
+    </item>
+    
+    <item>
+      <title>About this contraption!</title>
+      <link>https://0x3508a.github.io/about/</link>
+      <pubDate>Sat, 11 Apr 2020 19:15:32 +0800</pubDate>
+      
+      <guid>https://0x3508a.github.io/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+https://github.com/yuin/goldmark https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.</description>
+    </item>
+    
+  </channel>
+</rss>

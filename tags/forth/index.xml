@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>forth on 0x3508a&#39;s Blog</title>
+    <link>https://0x3508a.github.io/tags/forth/</link>
+    <description>Recent content in forth on 0x3508a&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Mar 2023 16:16:04 +0530</lastBuildDate><atom:link href="https://0x3508a.github.io/tags/forth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forth2020 Group Links</title>
+      <link>https://0x3508a.github.io/post/forth2020-group-links/</link>
+      <pubDate>Tue, 07 Mar 2023 16:16:04 +0530</pubDate>
+      
+      <guid>https://0x3508a.github.io/post/forth2020-group-links/</guid>
+      <description>&lt;p&gt;Recently joined the nice &lt;strong&gt;&lt;a href=&#34;https://www.forth2020.org/&#34; target=&#34;_blank&#34;&gt;Forth2020&lt;/a&gt;&lt;/strong&gt; group.
+Owing my discovery and interest in &lt;strong&gt;&lt;a href=&#34;https://0x3508a.github.io/tags/forth&#34; target=&#34;_blank&#34;&gt;Forth&lt;/a&gt;&lt;/strong&gt; programming Language.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
